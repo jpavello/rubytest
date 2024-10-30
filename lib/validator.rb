@@ -1,0 +1,2 @@
+module Validator
+end
